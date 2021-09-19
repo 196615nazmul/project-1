@@ -1,0 +1,76 @@
+.hasan {  
+    margin: auto;
+    margin-left: 225px;
+    
+}
+.hasan li a {
+    font-size: 20px;
+    /* margin: 0 11px; */
+}
+.carda {
+    width: 400px;
+    height: 500px;
+    background: #fff;
+    box-shadow: 0 0 24px -12px;
+}
+.bg{background: #8490ff;}
+.rejaul{padding: 200px 0; }
+.rejaul-1{padding: 70px 0; }
+.rejaul-2{padding: 100px 0; }
+.bac{background: #f9f9ff;}
+span img {
+    max-width: 200px;
+}
+.bac-1{background: #8490ff;}
+.papon li {
+    display: inline-block;
+    padding: 0 70px;
+}
+.p{line-height: 50px;
+color: #b1b1b1;}
+.papon li h1{color: #fff; text-align: center;}
+.papon li h5{color: #ddd;}
+.nazmul {
+    margin: 20px 115px;
+}
+.nazmul-1 {
+    background: #f9f9ff;
+    display: inline-block;
+    padding: 20px 20px;
+    margin: 20px 171px;
+    border-radius: 50%;
+}
+.cardaa {
+    width: 300px;
+    /* background: aliceblue; */
+    height: 350px;
+    box-shadow: 0 0 15px 3px;
+}
+.blog{margin-top: 50px;
+
+}
+.nazmul-3 {
+    /* width: 50px; */
+    margin: 32px 100px;
+    box-shadow: 0 0 12px -1px;
+}
+.imgbb {
+    margin: -35px 20px;
+}
+.masuk {
+    margin: 0 250px;
+    padding: 15px 45px;
+}
+
+.pinki {
+    width: 780px;
+    margin-left: 10px;
+}
+.col-lg-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+    background: #ffff;
+    width: 800px;
+    height: 657px;
+    box-shadow: 0 0 24px 1px;
+}
